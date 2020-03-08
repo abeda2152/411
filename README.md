@@ -17,11 +17,13 @@ o	**Admin of the system:-**
 -	Manage account details of students-means Insert, Update or Delete student details after login
 -	Search and generate report of any account.
 -	Search and modify details of student.
+
 o	**Accountant of the university**
 -	Accountant can search for a particular student.
 -	Update details of any student.
 -	Enrolling new student in the system.
 o	**Student of the system**
+
 -	Student can pay their fees online.
 -	Search history of paid fees.
 ## 3.	Implementation Details
